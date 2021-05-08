@@ -1,0 +1,17 @@
+{
+  "name": "TestyCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open",
+    "cy:run": "./node_modules/.bin/cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
